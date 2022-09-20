@@ -1,0 +1,28 @@
+
+  li{
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+  }
+button{
+    margin: 0 5px !important;
+}
+.editinpt{
+  border: none;
+  font-size: 30px;
+}
+.editinpt:focus{
+  outline: none;
+}
+.lidel{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+
+}
+.alldel{
+  width: 145px;
+ 
+}
